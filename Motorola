@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_EJlAYVwjMKsIf69Oo3jXSaJYFTF5jOwjQ&usqp=CAU">
+	<title>Celulares motorola</title>
+
+<style>
+	
+h1{font-family: arialblack;
+	font-size: 3em;
+	color: blue;
+	text-align: center;
+}
+
+h2{font-family: arial;
+	font-size: 1.5em;
+	color:orange;
+	text-align:center;
+	 }
+
+h3{font-family: starwars;
+	font-size: 1.5em;
+	color: white;
+	margin-left: 40px;
+	;
+}
+
+p{color: orange;
+text-align: justify-all;
+}
+
+
+body{background-image: url(https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80);
+
+	background-repeat: no-repeat;
+	background-position: cover;
+	background-size: 82em 91em;
+
+}
+
+.fig1{	
+	display: table; 
+	position: relative;	}
+
+.fig1 img{border: 2px solid white;}
+
+.fig1 figcaption{
+	display: table-caption;
+	caption-side: top;
+	color: white;
+}
+div{position: relative;
+	color: white;
+margin-left: 270px;
+bottom: 220px;}
+
+</style>
+
+
+
+</head>
+<body>
+
+		<h1>TECHSHOW</h1>
+
+	<h2> A sua tristeza é nossa felicidade!</h2>
+
+<br>
+
+<p><a href=" pag_inicial.html">Pagina inicial</a>&shy; <a href="asus.html" target="asus.html">Asus</a>&shy; <a href="xiaomi.html" target="xiaomi.html"> Xiaomi</a></p>
+
+
+<br>
+
+	<h3>MODELOS DA MOTOROLA</h3>
+
+	<figure class="fig1">
+	<img src="https://s.zst.com.br/cms-assets/2022/07/design-do-moto-g60.webp" width="200px"
+	height="200px">
+	<figcaption>MOTO G60</figcaption>
+
+ </figure>
+ <div><p>O Motorola Moto G60 é um smartphone Android de bom nível, ótimo para fotos, que pode satisfazer até o mais exigente dos usuários. Tem uma enorme tela Touchscreen de 6.8 polegadas com uma resolução de 2460x1080 pixel. Sobre as características deste Motorola Moto G60 na verdade não falta nada. Começando pelo LTE 4G que permite a transferência de dados e excelente navegação na internet, além de conectividade Wi-fi e GPS. Tem também leitor multimídia, rádio, videoconferência e bluetooth. Enfatizamos a boa memória interna de 128 GB com a possibilidade de expansão.
+O Motorola Moto G60 é um produto com poucos concorrentes em termos de multimídia graças à câmera de 108 megapixels que permite ao Motorola Moto G60 tirar fotos fantásticas com uma resolução de 12000x9000 pixels e gravar vídeos em 4K a espantosa resolução de 3840x2160 pixels.</p></div>
+		 
+
+ <figure class="fig1">
+	<img src="https://files.tecnoblog.net/wp-content/uploads/2021/03/motorola-moto-g100-hands-on-4-1060x596.jpg" width="200px"
+	height="200px">
+	<figcaption>MOTO G100</figcaption>
+ </figure>
+ <div><p>O Motorola Moto G100 é, sem dúvida, um dos smartphones Android mais avançados e abrangentes disponíveis no mercado, graças ao seu rico equipamento e recursos multimídia avançados. Tem um grande display de 6.7 polegadas com uma resolução de 2520x1080 pixel. As funcionalidades oferecidas pelo Motorola Moto G100 são muitas e inovadoras. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet. Enfatizamos a excelente memória interna de 256 GB com a possibilidade de expansão.
+O Motorola Moto G100 é um produto com poucos concorrentes em termos de multimídia graças à câmera de 64 megapixels que permite ao Motorola Moto G100 tirar fotos fantásticas com uma resolução de 9238x6928 pixels e gravar vídeos em 4K a espantosa resolução de 6144x3160 pixels. </p></div>
+
+		
+
+<figure class="fig1">
+	<img src="https://mobizoo.com.br/wp-content/uploads/2022/04/motorola-moto-g200-traseira.jpg" width="200px"
+	height="200px">
+	<figcaption>MOTO G200 </figcaption>
+ </figure>
+<div><p>O Motorola Moto G200 é, sem dúvida, um dos smartphones Android mais avançados e abrangentes disponíveis no mercado, graças ao seu rico equipamento e recursos multimídia avançados. Tem um grande display de 6.8 polegadas com uma resolução de 2460x1080 pixel. As funcionalidades oferecidas pelo Motorola Moto G200 são muitas e inovadoras. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet. Enfatizamos a excelente memória interna de 256 GB mas sem a possibilidade de expansão.
+O Motorola Moto G200 é um produto com poucos concorrentes em termos de multimídia graças à câmera de 108 megapixels que permite ao Motorola Moto G200 tirar fotos fantásticas com uma resolução de 12000x9000 pixels e gravar vídeos em 8K a espantosa resolução de 7680 x4320 pixels.</p></div>
+</body>
+</html>
