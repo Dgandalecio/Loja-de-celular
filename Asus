@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" type="image/x-icon" href="https://logodownload.org/wp-content/uploads/2014/09/asus-logo-0.png">
+	<title>Celulares asus</title>
+
+<style>
+	
+h1{font-family: arialblack;
+	font-size: 3em;
+	color: blue;
+	text-align: center;
+}
+
+h2{font-family: arial;
+	font-size: 1.5em;
+	color:orange;
+	text-align:center;
+	 }
+
+h3{font-family: starwars;
+	font-size: 1.5em;
+	color: white;
+	margin-left: 40px;
+	;
+}
+
+p{color: orange;
+text-align: justify-all;
+}
+
+
+body{background-image: url(https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80);
+
+	background-repeat: no-repeat;
+	background-position: cover;
+	background-size: 82em 91em;
+
+}
+
+.fig1{	
+	display: table; 
+	position: relative;	}
+
+.fig1 img{border: 2px solid white;}
+
+.fig1 figcaption{
+	display: table-caption;
+	caption-side: top;
+	color: white;
+}
+div{position: relative;
+	color: white;
+margin-left: 270px;
+bottom: 220px;}
+
+</style>
+
+
+
+</head>
+<body>
+
+		<h1>TECHSHOW</h1>
+
+	<h2> A sua tristeza é nossa felicidade!</h2>
+
+<br>
+
+<p><a href=" pag_inicial.html">Pagina inicial</a>&shy; <a href="motorola.html" target="motorola.html">Motorola</a>&shy; <a href="xiaomi.html" target="xiaomi.html"> Xiaomi</a></p>
+
+<br>
+
+	<h3>MODELOS DA ASUS</h3>
+
+	<figure class="fig1">
+	<img src="https://cdn.vox-cdn.com/thumbor/f5udOcgWBwqQHuP8rJISgfiDtJw=/0x0:3000x2000/1400x1400/filters:focal(1530x1075:1531x1076)/cdn.vox-cdn.com/uploads/chorus_asset/file/23904883/zenfone_9__1.jpg" width="200px"
+	height="200px">
+	<figcaption>ZENFONE 9 </figcaption>
+
+ </figure>
+ <div><p>O Asus Zenfone 9 é um smartphone Android com características inovadoras que o tornam uma excelente opção para qualquer tipo de utilização.<br> A tela de 5.9 polegadas coloca esse Asus no topo de sua categoria. A resolução também é alta: 2400x1080 pixel. As funcionalidades oferecidas pelo<br> Asus Zenfone 9 são muitas e top de linha. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet, além de <br>conectividade Wi-fi e GPS presente no aparelho. Tem também leitor multimídia, videoconferência, e bluetooth. Enfatizamos a excelente memória<br> interna de 256 GB mas sem a possibilidade de expansão.
+O Asus Zenfone 9 é um produto com poucos concorrentes em termos de multimídia graças à <br>câmera de 50 megapixels que permite tirar fotos fantásticas com uma resolução de 8165x6124 pixels e gravar vídeos em 8K a espantosa resolução de<br> 7680x4320 pixels. A espessura de 9.1 milímetros é realmente ótima e torna o Asus Zenfone 9 ainda mais espetacular.</p></div>
+		 
+
+ <figure class="fig1">
+	<img src="https://fdn.gsmarena.com/imgroot/reviews/21/asus-zenfone-8/lifestyle/-1200w5/gsmarena_026.jpg" width="200px"
+	height="200px">
+	<figcaption>ZENFONE 8 </figcaption>
+ </figure>
+ <div><p>O Asus Zenfone 8 é, sem dúvida, um dos smartphones Android mais avançados e abrangentes disponíveis no mercado, graças ao seu rico equipamento <br>e recursos multimídia avançados. Tem um grande display de 5.92 polegadas com uma resolução de 2400x1080 pixel. As funcionalidades oferecidas<br> pelo Asus Zenfone 8 são muitas e inovadoras. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet. Enfatizamos<br> a excelente memória interna de 128 GB mas sem a possibilidade de expansão.
+O Asus Zenfone 8 é um produto com poucos concorrentes em termos de <br>multimídia graças à câmera de 64 megapixels que permite ao Asus Zenfone 8 tirar fotos fantásticas com uma resolução de 9238x6928 pixels e gravar<br> vídeos em 8K a espantosa resolução de 7680x4320 pixels. </p></div>
+
+		
+
+<figure class="fig1">
+	<img src="https://asusfanaticos.com.br/wp-content/uploads/2020/12/zenfone_7_chamada.jpg" width="200px"
+	height="200px">
+	<figcaption>ZENFONE 7 </figcaption>
+ </figure>
+<div><p>O Asus Zenfone 7 é um smartphone Android avançado e abrangente em todos os pontos de vista com algumas características excelentes. Tem uma <br>grande tela de 6.67 polegadas com uma resolução de 2400x1080 pixels. As funcionalidades oferecidas pelo Asus Zenfone 7 são muitas e inovadoras.<br> Começando pelo 5G que permite a transferência de dados e excelente navegação na internet. Enfatizamos a excelente memória interna de 128 GB<br> com a possibilidade de expansão.
+O Asus Zenfone 7 é um produto com poucos concorrentes em termos de multimídia graças à câmera de 64 megapixels<br> que permite ao Asus Zenfone 7 tirar fotos fantásticas com uma resolução de 9238x6928 pixels e gravar vídeos em 8K a espantosa resolução de <br>7680x4320 pixels.</p></div>
+</body>
+</html>
