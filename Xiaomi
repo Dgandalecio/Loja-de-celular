@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" type="image/x-icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Xiaomi_logo.svg/2048px-Xiaomi_logo.svg.png">
+	<title>Celulares xiaomi</title>
+
+<style>
+	
+h1{font-family: arialblack;
+	font-size: 3em;
+	color: blue;
+	text-align: center;
+}
+
+h2{font-family: arial;
+	font-size: 1.5em;
+	color:orange;
+	text-align:center;
+	 }
+
+h3{font-family: starwars;
+	font-size: 1.5em;
+	color: white;
+	margin-left: 40px;
+	;
+}
+
+p{color: orange;
+text-align: justify-all;
+}
+
+
+body{background-image: url(https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80);
+
+	background-repeat: no-repeat;
+	background-position: cover;
+	background-size: 82em 91em;
+
+}
+
+.fig1{	
+	display: table; 
+	position: relative;	}
+
+.fig1 img{border: 2px solid white;}
+
+.fig1 figcaption{
+	display: table-caption;
+	caption-side: top;
+	color: white;
+}
+div{position: relative;
+	color: white;
+margin-left: 270px;
+bottom: 220px;}
+
+</style>
+
+
+
+</head>
+<body>
+
+		<h1>TECHSHOW</h1>
+
+	<h2> A sua tristeza é nossa felicidade!</h2>
+
+<br>
+
+<p><a href=" pag_inicial.html">Pagina inicial</a>&shy; <a href="motorola.html" target="motorola.html">Motorola</a>&shy; <a href="asus.html" target="asus.html"> Asus</a></p>
+
+
+<br>
+<p>
+	<h3>MODELOS DA XIAOMI</h3>
+
+	<figure class="fig1">
+	<img src="https://www.digitaltrends.com/wp-content/uploads/2023/02/Poco-X5-Pro-in-Hand-Back.jpg?p=1" width="200px"
+	height="200px">
+	<figcaption>POCO X5 PRO</figcaption>
+
+ </figure>
+ <div><p>O Poco X5 Pro é um smartphone Android de bom nível, ótimo para fotos, que pode satisfazer até o mais exigente dos usuários. Tem uma enorme tela Touchscreen de 6.67 polegadas com uma resolução de 2400x1080 pixel. Sobre as características deste Poco X5 Pro na verdade não falta nada. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet, além de conectividade Wi-fi e GPS. Tem também leitor multimídia, videoconferência e bluetooth. Enfatizamos a boa memória interna de 128 GB mas sem a possibilidade de expansão.
+O Poco X5 Pro é um produto com poucos concorrentes em termos de multimídia graças à câmera de 108 megapixels que permite ao Poco X5 Pro tirar fotos fantásticas com uma resolução de 12000x9000 pixels e gravar vídeos em alta definição (Full HD) com uma resolução de 1920x1080 pixels. Muito fino, 7.9 milímetros, o que torna o Poco X5 Pro realmente interessante.</p></div>
+		 
+
+ <figure class="fig1">
+	<img src="https://img.olx.com.br/images/35/356355266396754.jpg" width="200px"
+	height="200px">
+	<figcaption>POCO X4 PRO </figcaption>
+ </figure>
+ <div><p>O Poco X4 Pro é um smartphone Android avançado e abrangente em todos os pontos de vista com algumas características excelentes. Tem uma grande tela de 6.67 polegadas com uma resolução de 2400x1080 pixels. As funcionalidades oferecidas pelo Poco X4 Pro são muitas e inovadoras. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet. Enfatizamos a excelente memória interna de 128 GB com a possibilidade de expansão.
+O Poco X4 Pro é um produto com poucos concorrentes em termos de multimídia graças à câmera de 108 megapixels que permite ao Poco X4 Pro tirar fotos fantásticas com uma resolução de 12000x9000 pixels e gravar vídeos em alta definição (Full HD) com uma resolução de 1920x1080 pixels. Muito fino, 8.1 milímetros, o que torna o Poco X4 Pro realmente interessante. </p></div>
+
+		
+
+<figure class="fig1">
+	<img src="https://t2.tudocdn.net/567259?w=1920" width="200px"
+	height="200px">
+	<figcaption>POCO X3 PRO</figcaption>
+ </figure>
+<div><p>O Poco X3 Pro é um smartphone Android de bom nível, ótimo para fotos, que pode satisfazer até o mais exigente dos usuários. Tem uma enorme tela Touchscreen de 6.67 polegadas com uma resolução de 2400x1080 pixel. Sobre as características deste Poco X3 Pro na verdade não falta nada. Começando pelo LTE 4G que permite a transferência de dados e excelente navegação na internet, além de conectividade Wi-fi e GPS. Tem também leitor multimídia, rádio, videoconferência e bluetooth. Enfatizamos a boa memória interna de 128 GB com a possibilidade de expansão.
+O Poco X3 Pro é um produto com poucos concorrentes em termos de multimídia graças à câmera de 48 megapixels que permite ao Poco X3 Pro tirar fotos fantásticas com uma resolução de 8000x6000 pixels e gravar vídeos em 4K a espantosa resolução de 3840x2160 pixels.</p></div>
+</body>
+</html>
